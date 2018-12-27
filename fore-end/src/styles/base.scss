@@ -1,0 +1,10 @@
+// 项目的基础样式文件
+
+@import './common/reset.scss';
+@import './common/var.scss';
+
+#app {
+    display: flex;//全局弹性布局属性
+    flex-direction: column;
+    height: 100%;
+}

@@ -1,0 +1,327 @@
+[{
+    "filmId": 4469,
+    "name": "海王 ",
+    "poster": "https://pic.maizuo.com/usr/movie/f713d0f85512087679ac951e8565d187.jpg",
+    "actors": [{
+      "name": " 帕特里克·威尔森",
+      "role": " Orm / Ocean Master",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/7e5727503ed7ac6ddc0b7cb262b5e9b7.jpg"
+    }, {
+      "name": " 妮可·基德曼 ",
+      "role": " Queen Atlanna",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/e712708f4801f12a08165ae25fb96870.jpg"
+    }, {
+      "name": "杜夫·龙格尔",
+      "role": " King Nereus",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/31addb46b98ded8b973bd2b5ea45b2ad.jpg"
+    }, {
+      "name": "温子仁",
+      "role": " 导演",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/2b6b007e02aa60bb4e93b6ff57cf7185.jpg"
+    }, {
+      "name": " 杰森·莫玛",
+      "role": "Arthur Curry    Aquaman",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/cc0f46bc20be5ae093f3e4f2c8c06f08.jpg"
+    }, {
+      "name": "安柏·赫德",
+      "role": "Mera",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/1f0dba0c4431a8084b879e55929949bb.jpg"
+    }],
+    "director": "温子仁",
+    "category": "动作|奇幻|冒险",
+    "synopsis": "本片由杰森·莫玛领衔主演，讲述半人半亚特兰蒂斯血统的亚瑟·库瑞踏上永生难忘的征途——他不但需要直面自己的特殊身世，更不得不面对生而为王的考验：自己究竟能否配得上“海王”之名。",
+    "filmType": {
+      "name": "3D",
+      "value": 2
+    },
+    "nation": "美国   澳大利亚 ",
+    "language": "英语",
+    "videoId": "XMzkzNjI2NDgwNA==",
+    "premiereAt": 1544140800,
+    "timeType": 3,
+    "runtime": 143,
+    "photos": ["https://pic.maizuo.com/usr/100004469/01e73fe34740fecd70a62dca0f8a124a.jpg", "https://pic.maizuo.com/usr/100004469/20262b8c934d2384b8b61fe8bfe854d6.jpg", "https://pic.maizuo.com/usr/100004469/5e6f95d556441d91af80d99e578bdbec.jpg", "https://pic.maizuo.com/usr/100004469/a3638a7b24b41c93f5da7f02cc4726a0.jpg", "https://pic.maizuo.com/usr/100004469/b26f428b7022c2193959b5cb90b5b267.jpg", "https://pic.maizuo.com/usr/100004469/c0b4524f67ecd8fafc1ab00aecb86bb6.jpg"],
+    "grade": "7.2",
+    "item": {
+      "name": "3D",
+      "type": 2
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4453,
+    "name": "无名之辈",
+    "poster": "https://pic.maizuo.com/usr/movie/f7dae47798d10d56f622a31cbf385e07.jpg",
+    "actors": [{
+      "name": "陈建斌 ",
+      "role": "马先勇",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/a7722557b07de3fa0a05a8edb2f6c3ed.jpg"
+    }, {
+      "name": "任素汐  ",
+      "role": "马嘉旗 ",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/d7ab46a0dbbcda43d4105f809c02f5d5.jpg"
+    }, {
+      "name": "章宇",
+      "role": "眼镜",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/0751a93544c7ea154d65c6af11e72821.jpg"
+    }, {
+      "name": "王砚辉",
+      "role": " 演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/6f60ba0ade5443857b3bbefdd1493276.jpg"
+    }],
+    "director": "饶晓志",
+    "category": "剧情|喜剧",
+    "synopsis": "在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "filmType": {
+      "name": "2D",
+      "value": 1
+    },
+    "nation": "中国大陆",
+    "language": "汉语普通话",
+    "videoId": "XMzg5Mjg3ODI4OA==",
+    "premiereAt": 1542326400,
+    "timeType": 3,
+    "runtime": 100,
+    "photos": ["https://pic.maizuo.com/usr/100004453/02ec05e787fcaf8832e1cd52e94c4f82.jpg", "https://pic.maizuo.com/usr/100004453/03ab2baf182a1140a1b00420c859c973.jpg", "https://pic.maizuo.com/usr/100004453/b0b1a73d17e9b4d3435bfc7e240d51b9.jpg", "https://pic.maizuo.com/usr/100004453/f8463c2b88cc0c4a32f8dba49f280d58.jpg"],
+    "grade": "8.1",
+    "item": {
+      "name": "2D",
+      "type": 1
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4424,
+    "name": "毒液：致命守护者",
+    "poster": "https://pic.maizuo.com/usr/movie/b6da3092e1bf9ec575882212450bce0a.jpg",
+    "actors": [{
+      "name": "汤姆·哈迪",
+      "role": "埃迪·布洛克 / 毒液",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/8d65dc2e228ddce683d2aa1eacd516bd.jpg"
+    }, {
+      "name": "里兹·阿迈德 ",
+      "role": "德雷克博士",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/8a28f9e7fef8c34577e131be81b00426.jpg"
+    }, {
+      "name": " 米歇尔·威廉姆斯 ",
+      "role": "安妮·韦英 ",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/b623d05f6b4ad819cbac8c4d98446fe6.jpg"
+    }, {
+      "name": " 斯科特·黑兹",
+      "role": "",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/c638a5209dfd71f6e5792b5be98a1d9c.jpg"
+    }, {
+      "name": "瑞德·斯科特 ",
+      "role": "Patrick Mulligan",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/6580896dac2546a0cbdde69e9d9a2cec.jpg"
+    }],
+    "director": "鲁本·弗雷斯彻",
+    "category": "动作|科幻|惊悚",
+    "synopsis": "曾主演《敦刻尔克》《盗梦空间》等口碑大片的肌肉型男汤姆·哈迪在本片中饰演“毒液”的宿主–埃迪·布洛克。身为记者的埃迪在调查生命基金会老板卡尔顿·德雷克（里兹·阿迈德饰）的过程中，事业遭受重创，与未婚妻安妮·韦英（米歇尔·威廉姆斯饰）的关系岌岌可危，并意外被外星共生体入侵，历经挣扎对抗，最终成为拥有强大超能力，无人可挡的“毒液”。",
+    "filmType": {
+      "name": "IMAX3D",
+      "value": 17
+    },
+    "nation": "美国 ",
+    "language": "英语",
+    "videoId": "XMzgyNjMyNDM4OA==",
+    "premiereAt": 1541721600,
+    "timeType": 3,
+    "runtime": 112,
+    "photos": ["https://pic.maizuo.com/usr/100004424/09382bab792f57c76dd65e50a4ff6023.jpg", "https://pic.maizuo.com/usr/100004424/1c897039f83af517066d3f79830c7085.jpg", "https://pic.maizuo.com/usr/100004424/cf9c2e196fe2ce633ae87bb1f65f7873.jpg", "https://pic.maizuo.com/usr/100004424/d15693a0ee9c228f73a6684c6a73c667.jpg", "https://pic.maizuo.com/usr/100004424/daa42b1e8d58c078f9dc2a60faabb3d3.jpg", "https://pic.maizuo.com/usr/100004424/f9da4093033cad4806457d10a4f987ff.jpg"],
+    "grade": "7.3",
+    "item": {
+      "name": "IMAX3D",
+      "type": 17
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4434,
+    "name": "憨豆特工3 ",
+    "poster": "https://pic.maizuo.com/usr/movie/2e7accf640f1cc9af8e3a3d016b6ea42.jpg",
+    "actors": [{
+      "name": " 罗温·艾金森 ",
+      "role": "演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/8ab9d2148d9504de25e43f8cd8008d7d.jpg"
+    }, {
+      "name": " 欧嘉·柯瑞兰寇",
+      "role": "演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/2a3061cb2c04ae4899ed7daea8eb9f46.jpg"
+    }, {
+      "name": " 艾玛·汤普森",
+      "role": "演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/7242b1c4eeb2008a0893dc3e3e3c9e05.jpg"
+    }, {
+      "name": " 本·米勒",
+      "role": "演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/e87db29338251667b7315ce3ca7857cb.jpg"
+    }, {
+      "name": " 杰克·莱西",
+      "role": "演员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/5e9fdc5b02c49221e6ae019fb1939278.jpg"
+    }],
+    "director": "大卫·科尔",
+    "category": "喜剧|动作|冒险",
+    "synopsis": "《憨豆特工3》是憨豆特工系列喜剧的第三部作品，罗温·艾金森再度回归，继续扮演大受欢迎的阴差阳错入行的特工强尼。这次的新冒险由一场黑客攻击拉开序幕，所有在职的特工都被暴露了身份，使得强尼成为情报处最后的救命稻草。因此获得“返聘”的强尼第一个出勤任务便是要找出这位超强 黑客 。木头木脑、技能堪忧的强尼将如何应对现代科技的挑战，成功完成任务呢？",
+    "filmType": {
+      "name": "2D",
+      "value": 1
+    },
+    "nation": "法国   美国  英国",
+    "language": "英语",
+    "videoId": "XMzU0NDc4MjU1Ng==",
+    "premiereAt": 1542931200,
+    "timeType": 3,
+    "runtime": 100,
+    "photos": ["https://pic.maizuo.com/usr/100004434/280b77ae20b8a13a59cfe929217eb58a.jpg", "https://pic.maizuo.com/usr/100004434/2e1c03e5c94f1ae925c863c48657fc56.jpg", "https://pic.maizuo.com/usr/100004434/d0d89c6f689af15cecb95b12cee4dbee.jpg", "https://pic.maizuo.com/usr/100004434/e225b9218659dc02ae1b36a7bdde85f1.jpg", "https://pic.maizuo.com/usr/100004434/fddbbbce35efb837ea7650fa0992b79a.jpg"],
+    "grade": "7.2",
+    "item": {
+      "name": "2D",
+      "type": 1
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4485,
+    "name": "大黄蜂",
+    "poster": "https://pic.maizuo.com/usr/movie/91ff8d8dc5ef8d0060efa9d72e1177eb.jpg",
+    "actors": [{
+      "name": "特拉维斯·奈特",
+      "role": "导演",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/00e0b6f6e3feceb831c65b43aacb7e02.jpg"
+    }, {
+      "name": "海莉·斯坦菲尔德",
+      "role": "查莉·沃森 ",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/02a4e1b1de9d4d2f45ae44dfe3675267.jpg"
+    }, {
+      "name": "杰森·德鲁克",
+      "role": " 奥蒂斯",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/d016d7f719a397fe91a76530179afe27.jpg"
+    }, {
+      "name": "约翰·塞纳",
+      "role": "伯恩斯探员",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/3836b273cc7831c1f6ab38d18844749f.jpg"
+    }, {
+      "name": "小豪尔赫·兰登伯格 ",
+      "role": "咪莫 ",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/f9011c734590f15d37f3774458e1eb56.jpg"
+    }],
+    "director": "特拉维斯·奈特",
+    "category": "动作|科幻|冒险",
+    "synopsis": "本片故事设定在1987年，正值青春期的18岁少女查理Charlie（海莉·斯坦菲尔德 饰）在加州海边小镇的废弃场里发现了伤痕累累的大黄蜂，他们之间会发生怎样的故事呢？让我们拭目以待！",
+    "filmType": {
+      "name": "2D",
+      "value": 1
+    },
+    "nation": "美国",
+    "language": "英语",
+    "videoId": "XMzk0OTI4NDYwOA==",
+    "premiereAt": 1546560000,
+    "timeType": 3,
+    "runtime": 100,
+    "photos": ["https://pic.maizuo.com/usr/100004485/158624c823fd897db8e4ce66d305dec4.jpg", "https://pic.maizuo.com/usr/100004485/34abc67070cb63e49cc251b540f1c4c8.jpg", "https://pic.maizuo.com/usr/100004485/405ffc6a23d4b8d4753fe75a6814487c.jpg", "https://pic.maizuo.com/usr/100004485/4232bd6aa9ebdf6efcfba84b42b5a1d9.jpg", "https://pic.maizuo.com/usr/100004485/6559ebdf7caa7efbad13da78ec019258.jpg", "https://pic.maizuo.com/usr/100004485/7ab28b0bae7f91d337b2a3eecba58c64.jpg", "https://pic.maizuo.com/usr/100004485/876ebbd6653a87ade32ec1cefc084bd4.jpg", "https://pic.maizuo.com/usr/100004485/8cd1dcc84f38deffba2ae5685fd49be7.jpg"],
+    "item": {
+      "name": "2D",
+      "type": 1
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4476,
+    "name": "蜘蛛侠：平行宇宙",
+    "poster": "https://pic.maizuo.com/usr/movie/e27eb7df7e0fc79f948ebeb1bfaf1106.jpg",
+    "actors": [{
+      "name": "尼古拉斯·凯奇",
+      "role": "配 暗影蜘蛛侠",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/5c470a7b17797e3b2e237522f70152b2.jpg"
+    }, {
+      "name": " 沙梅克·摩尔",
+      "role": "配 小黑蛛   迈尔斯·莫拉莱斯 ",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/5d57d03eebc473a5ade865c657c57dc7.jpg"
+    }, {
+      "name": "杰克·约翰逊",
+      "role": "配 蜘蛛侠   彼得·帕克",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/88a55ad59acf90663b8a92f47bfb8c32.jpg"
+    }, {
+      "name": " 鲍勃·佩尔西凯蒂",
+      "role": "导演",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/f9e7143d549a2fe4766dbd9584edd9fd.jpg"
+    }, {
+      "name": " 彼得·拉姆齐",
+      "role": "导演",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/e92e8d4849dbc968a8c5b83fe2784536.jpg"
+    }],
+    "director": "鲍勃·佩尔西凯蒂  彼得·拉姆齐   罗德尼·罗斯曼",
+    "category": "动作|科幻|动画",
+    "synopsis": "蜘蛛侠不止一个！漫威超英动画巨制《蜘蛛侠：平行宇宙》将经典漫画与CGI技术完美呈现，讲述了普通高中生迈尔斯·莫拉斯如何师从蜘蛛侠彼得·帕克，成长为新一代超级英雄的故事。影片中迈尔斯和从其它平行宇宙中穿越而来的彼得、女蜘蛛侠格温、暗影蜘蛛侠、潘妮·帕克和蜘猪侠集结成团，六位蜘蛛侠首次同框大银幕，对抗蜘蛛侠宇宙最强反派。",
+    "filmType": {
+      "name": "2D",
+      "value": 1
+    },
+    "nation": "美国",
+    "language": "英语",
+    "videoId": "",
+    "premiereAt": 1545350400,
+    "timeType": 3,
+    "runtime": 100,
+    "photos": ["https://pic.maizuo.com/usr/100004476/115de16260bb502f2e203648ed241835.jpg", "https://pic.maizuo.com/usr/100004476/4a90b30afade95a8b0ed9ddc8b93bc2c.jpg", "https://pic.maizuo.com/usr/100004476/5fd4ba2c75a0f02c3ab3f30fc1df408d.jpg", "https://pic.maizuo.com/usr/100004476/ac1e48d60a383cff7f8d6ec1856dcb30.jpg", "https://pic.maizuo.com/usr/100004476/b90b5b970a9eead562b9556c29a3c3eb.jpg", "https://pic.maizuo.com/usr/100004476/f7da7c4e14bad22aaf771ed0acc885a0.jpg"],
+    "item": {
+      "name": "2D",
+      "type": 1
+    },
+    "isPresale": false,
+    "isSale": true
+  },
+  {
+    "filmId": 4474,
+    "name": "地球最后的夜晚",
+    "poster": "https://pic.maizuo.com/usr/movie/a9b0861192366e6c64cc259956ec824b.jpg",
+    "actors": [{
+      "name": "毕赣 ",
+      "role": "导演",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/cf9dd7beac72d3c95f557732dd8484d3.jpg"
+    }, {
+      "name": "黄觉",
+      "role": "罗纮武",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/aca56a41b7808dec78e2ef6449254dff.jpg"
+    }, {
+      "name": "汤唯  ",
+      "role": "万绮雯",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/46d17901537136a96f9488c4e5730010.jpg"
+    }, {
+      "name": " 张艾嘉",
+      "role": "红发女   白猫的母亲",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/7e421bd21b0c2d4f1c9c9f269d6ad762.jpg"
+    }, {
+      "name": "李鸿其 ",
+      "role": "白猫",
+      "avatarAddress": "https://pic.maizuo.com/usr/movie/338aa3e878d5d646e83c416d18711da7.jpg"
+    }],
+    "director": "毕赣",
+    "category": "剧情|悬疑",
+    "synopsis": "罗紘武（黄觉 饰）因父亲离世再次回到贵州。12年前，好友白猫（李鸿其 饰）被杀，罗紘武在追查凶手左宏元（陈永忠 饰）的过程中，被凶手的情人万绮雯（汤唯 饰）所利用。从此以后，这个神秘的女人构成了他所有的记忆、欲望、信念和梦魇，一段追寻之旅让他发现了被隐藏多年的秘密……",
+    "filmType": {
+      "name": "2D",
+      "value": 1
+    },
+    "nation": "中国大陆  法国",
+    "language": "汉语普通话",
+    "videoId": "XMzg4NzczNTk5Ng==",
+    "premiereAt": 1546214400,
+    "timeType": 3,
+    "runtime": 140,
+    "photos": ["https://pic.maizuo.com/usr/100004474/4a51ff4eb90f2057f6ced86a30fdc09b.jpg"],
+    "item": {
+      "name": "2D",
+      "type": 1
+    },
+    "isPresale": false,
+    "isSale": true
+  }
+]
